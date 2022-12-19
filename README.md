@@ -1,2 +1,2 @@
 # travel
-http://JouVN.githab.io/travel/
+https://jouvn.github.io/travel/
